@@ -14,7 +14,7 @@ A optimal path moves from A[1] to A[n] with lowest total cost.
 
 ## Sample Output
   - Line 1: C and L separated by one space, where C is the optimal cost and L is the number of vertices on the optimal path.
-  - Line 2: p<sub>1</sub>, p<sub>2</sub>, . . . , p<sub>L</sub>, the optimal path separated by one space
+  - Line 2: p<sub>1</sub>, p<sub>2</sub>, . . . , p<sub>L</sub>, the optimal path separated by one space.
 ```bash
 20696 5
 1234 3234 3274 5274 5074
